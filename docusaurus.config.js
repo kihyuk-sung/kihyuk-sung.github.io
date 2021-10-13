@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'kihyuk-sung', // Usually your GitHub org/user name.
   projectName: 'kihyuk-sung.github.io', // Usually your repo name.
-
+  trailingSlash: true,
   presets: [
     [
       '@docusaurus/preset-classic',
