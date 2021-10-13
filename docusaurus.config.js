@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'K-log',
-  tagline: 'for developer',
+  tagline: 'Great information for developers',
   url: 'https://kihyuk-sung.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
