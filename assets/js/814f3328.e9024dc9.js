@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkihyuk_sung_github_io=self.webpackChunkkihyuk_sung_github_io||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\uc0c8 \ube14\ub85c\uadf8 \uccab \uae00","permalink":"/blog/first"}]}')}}]);

@@ -4,36 +4,15 @@
         <title>K-log Blog</title>
         <link>https://kihyuk-sung.github.io/blog</link>
         <description>K-log Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://kihyuk-sung.github.io/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://kihyuk-sung.github.io/blog/mdx-blog-post</link>
-            <guid>mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://kihyuk-sung.github.io/blog/long-blog-post</link>
-            <guid>long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-        </item>
-        <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://kihyuk-sung.github.io/blog/first-blog-post</link>
-            <guid>first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <title><![CDATA[새 블로그 첫 글]]></title>
+            <link>https://kihyuk-sung.github.io/blog/first</link>
+            <guid>first</guid>
+            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[요즘 네이버 부스트캠프 웹 모바일 멤버십 과정에 참여하게 되었다. 챌린지 과정 전까지는 나름대로 TIL도 적고 했는데, 챌린지 과정에 참여하면서부터 글 쓰기 작업에 시간을 내지 못했다. 그리고 최근에는 공부가 잘 안되기 시작했다. 구현도 잘 못하는 것 같고 자신감도 많이 떨어진 것처럼 느껴졌다. 그래서 새로운 전환점을 위해 다시 글쓰기를 시작해야겠다고 생각했다.]]></description>
         </item>
     </channel>
 </rss>
